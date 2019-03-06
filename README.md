@@ -13,7 +13,8 @@
     ```
 5. Initialize database
     ```
-    python database/build.py
-    python database/load.py
+    cd database
+    python build.py
+    python load.py
     ```
   
