@@ -2,7 +2,7 @@
 
 
 ## Setup
-1. Install Python 3.7 (andaconda distribution)
+1. Install Python 3.7 (anaconda distribution)
 2. Install requirements
     `pip install -r requirements.txt`
 3. Install docker
